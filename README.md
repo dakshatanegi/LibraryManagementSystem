@@ -12,12 +12,12 @@
 
 # Technology Stack used:
 
-Programming Language: Core Java 
+-> Programming Language: Core Java 
 
-GUI Part: Swing
+-> GUI Part: Swing
 
-Database: MySQL
+-> Database: MySQL
 
-IDE: Netbeans
+# IDE: Netbeans
 
 # Working Days: 30thJan-24thFeb
